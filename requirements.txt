@@ -8,3 +8,6 @@ arxiv
 pymupdf
 langchain-text-splitters
 lxml
+langchain-openai
+chromadb
+sentence_transformers
